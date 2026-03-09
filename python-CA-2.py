@@ -1,6 +1,6 @@
 import time
-max=int(input("Enter maximum temprature in Celcius : "))
-min=int(input("Enter minimum temprature in Celcius : "))
+max=int(input("Enter maximum temperature in Celcius : "))
+min=int(input("Enter minimum temperature in Celcius : "))
 timt=int(input("Enter runtime : "))
 mean=0
 for i in range(timt//2):
