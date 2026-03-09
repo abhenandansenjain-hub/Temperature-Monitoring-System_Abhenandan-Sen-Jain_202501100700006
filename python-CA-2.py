@@ -1,3 +1,4 @@
+import random
 import time
 max=int(input("Enter maximum temperature in Celcius : "))
 min=int(input("Enter minimum temperature in Celcius : "))
