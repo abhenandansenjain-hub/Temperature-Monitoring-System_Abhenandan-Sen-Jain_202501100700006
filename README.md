@@ -23,14 +23,4 @@ After all readings are completed, the program calculates and displays the experi
 
 Sample Output:
 
-Enter maximum temperature in Celcius : 35
-Enter minimum temperature in Celcius : 20
-Enter runtime : 10
 
-READING 0 : The temperature is : 28.0 C
-READING 1 : The temperature is : 24.0 C
-READING 2 : The temperature is : 31.0 C
-READING 3 : The temperature is : 26.0 C
-READING 4 : The temperature is : 29.0 C
-
-Experimental value obtained : 27.6 C
